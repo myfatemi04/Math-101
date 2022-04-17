@@ -21,7 +21,7 @@ Question: If $x^2+1=2$, what is $x$?
 [ ] 2
 
 Explanation:
-$x=\sqrt{2-1}=\sqrt{1}=\pm 1$. So the answer is A and C!
+$x^2=2-1=1$, so $x$ has two solutions: $-1$ and $1$.
 ???
 
 We hope you have fun!
