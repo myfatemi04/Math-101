@@ -6,6 +6,8 @@ Math101 is a very difficult course. It involves
 - and rinking
 - and OOGA BOOGA
 
+desmos: https://www.desmos.com/calculator/97umutjzea
+
 ## Notes
 You might even need to use some Python!
 ```python
