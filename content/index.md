@@ -4,6 +4,7 @@ Math101 is a very difficult course. It involves
 - pinking
 - sinking
 - and rinking
+- and OOGA BOOGA
 
 ## Notes
 You might even need to use some Python!
